@@ -48,6 +48,8 @@
 
 ### [Front-end Developer](http://www.frontenddeveloperjob.com/)
 
+### [ShopTalk Show Job Board](http://shoptalkshow.com/jobs)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
